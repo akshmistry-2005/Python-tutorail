@@ -28,3 +28,10 @@ print(t1.upper())
 print(t1.lower())
 print(t1.title())
 print(t1.capitalize())
+
+""" Stratswith and Endswith function"""
+i1="we are learning python using tutedude"
+print(i1.startswith("w"))
+print(i1.endswith("tutedude"))
+print(i1.startswith("are"))
+print(i1.endswith("we"))
