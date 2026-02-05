@@ -28,4 +28,4 @@ print(f"The occurence of {ITEM_TO_COUNT} is : {c} ")
 
 """ D) in OPERATION """
 ALPHABETS = ["PYHTON","JAVA","C++","C","KOTLIN","REACT"]
-print("javascrpt" in ALPHABETS)
+print("javascrpt" in ALPHABETS) 
